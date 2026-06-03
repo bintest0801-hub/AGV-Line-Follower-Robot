@@ -50,7 +50,7 @@ PID output adjusts left/right motor speed differentially.
 | PCB Design | EasyEDA |
 | Power | 12V LiPo → LM2596 → 5V |
 
-## 📡 How to Connect
+## How to Connect
 
 1. Power on the robot
 2. Connect to WiFi: **AGV_BINH** / Password: **12345678**
